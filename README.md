@@ -1,5 +1,7 @@
 # CS61A
-CS 61A: Structure and Interpretation of Computer Programs
+CS 61A: Structure and Interpretation of Computer Programs 
+
+CS61A website: https://inst.eecs.berkeley.edu/~cs61a/fa21/
 
 unclock: python ok -q labxx -u --local
 

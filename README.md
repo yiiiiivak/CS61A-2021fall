@@ -12,4 +12,5 @@ submit: python ok --submit --local
 1. git init
 2. git add 'xxx'
 3. git commit -m 'xxx-information'
-4. git push 
+4. git pull --rebase origin master
+5. git push 
